@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\GitHub Logical Program\\FibonacciSeries\\FibonacciSeries\\FibonacciSeries.csproj",
-      "projectName": "FibonacciSeries",
-      "projectPath": "C:\\Users\\hp\\Desktop\\GitHub Logical Program\\FibonacciSeries\\FibonacciSeries\\FibonacciSeries.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\GitHub Logical Program\\PerfectNumbers\\PerfectNumbers\\PerfectNumbers.csproj",
+      "projectName": "PerfectNumbers",
+      "projectPath": "C:\\Users\\hp\\Desktop\\GitHub Logical Program\\PerfectNumbers\\PerfectNumbers\\PerfectNumbers.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\GitHub Logical Program\\FibonacciSeries\\FibonacciSeries\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\GitHub Logical Program\\PerfectNumbers\\PerfectNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
